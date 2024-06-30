@@ -65,7 +65,7 @@ func main() {
 
 	fmt.Print(`
 		[1] Send a Text To Everyone
-		[2] Send a Special To Each Person
+		[2] Send a Special Text To Each Person
 		)> `,
 	)
 	fmt.Scanln(&option)
